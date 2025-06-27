@@ -1,0 +1,81 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Documento sin título</title>
+<!-- TemplateEndEditable -->
+<style type="text/css">
+.NOMBRE {
+	font-size: 24px;
+	text-align: center;
+}
+.TITULO {
+	font-size: 36px;
+}
+.r1 {
+	text-align: center;
+}
+.r1 {
+	color: #333;
+}
+.YIYULO {
+	font-size: 36px;
+}
+.titulo {
+	font-size: 36px;
+	color: #000000;
+	text-align: center;
+}
+.NOMBRE {
+	font-size: 18px;
+}
+.NOMBRE {
+	font-size: 18px;
+}
+.NOMBRE {
+	font-size: 18px;
+}
+.CENTRAR_imagen {
+	text-align: center;
+}
+.CENTRADO {
+	text-align: center;
+}
+.C {
+	text-align: center;
+	color: #0CF;
+}
+.CN {
+	text-align: center;
+}
+.titulo1 {	font-size: 36px;
+	color: #000000;
+	text-align: center;
+}
+</style>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<table width="100%" height="183" border="1">
+  <tr>
+    <th height="177" bgcolor="#FF0000" class="titulo" scope="row"><span class="titulo1"><img src="../IMAGENES/logo.png" width="140" height="126" /></span> JORDAN <img src="../IMAGENES/logo2.png" width="153" height="144" /></th>
+  </tr>
+</table>
+<p class="titulo">NOVEDADES DE:</p>
+<table width="100%" border="1">
+  <tr>
+    <th width="33%" class="NOMBRE" scope="col">HOMBRE</th>
+    <th width="33%" class="NOMBRE" scope="col">DAMA</th>
+    <th width="34%" class="NOMBRE" scope="col">NIÑO</th>
+  </tr>
+  <tr>
+    <td height="274" bgcolor="#0066FF" class="CENTRAR_imagen"><img src="../IMAGENES/ROPA H.jpg" width="209" height="270" /></td>
+    <td bgcolor="#CC0099"> <span class="CENTRADO"><span class="CN"><img src="../IMAGENES/ROPA M.jpg" width="235" height="234" /></span></span></td>
+    <td bgcolor="#3399FF" class="C"><img src="../IMAGENES/ROPA NIÑO.jpg" width="216" height="263" /></td>
+  </tr>
+</table>
+</body>
+</html>
